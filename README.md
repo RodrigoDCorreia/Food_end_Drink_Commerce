@@ -19,7 +19,7 @@ O projeto "foods and drinks delivery" proporciona aos clientes uma flexibilidade
 
 01- React Native (npx create-react-app [ProjectName])<br>
 02- TypeScript<br>
-04- HTML
+04- HTML<br>
 05- CSS
 <h3>Processos*</h3>
 <p>Foos end Drinks foi desenvolvidos usando métodos ágeis de desenvolvimento de software que se concentram em pacotes de entrega e enfatizam o desenvolvimento de recursos.</p>
