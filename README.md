@@ -27,7 +27,7 @@ O projeto "foods and drinks delivery" proporciona aos clientes uma flexibilidade
 </div>
 
 <h3>instalações*</h3>
-01- Faça um git clone: <br>
+01- Faça um git clone: https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce.git<br>
 02- CMD dentro da pasta<br>
 <h4>Digite:</h4>Code . <br><br>
 3- Abra o terminal Vscode ou de preferencia
