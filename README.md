@@ -4,15 +4,15 @@
 <br>
 <h3>Introdução*</h3>
 <br>
-O projeto "foods and drinks delivery" proporciona aos clientes uma flexibilidade de fazer pedidos  com Auto-atendimento (Totem), WebSite(Desktop) ou celulares, recebendo refeições e bebidas na sua comodidade. A plataforma online permite a escolha de itens do menu, opções de entrega(Local ou endereço) e pagamento. O serviço visa oferecer uma experiência fácil, permitindo que os clientes desfrutem de comida de qualidade. A utilidade do projeto inclui conveniência, economia de tempo, variedade de opções e aumento nas vendas para os restaurantes.
+O projeto "foods and drinks commerce" proporciona aos clientes uma flexibilidade de fazer pedidos  com Auto-atendimento (Totem), WebSite(Desktop) ou celulares, recebendo refeições e bebidas na sua comodidade. A plataforma online permite a escolha de itens do menu, opções de entrega(Local ou endereço) e pagamento. O serviço visa oferecer uma experiência fácil, permitindo que os clientes desfrutem de comida de qualidade. A utilidade do projeto inclui conveniência, economia de tempo, variedade de opções e aumento nas vendas para os restaurantes.
 
 <h3>Funcionalidades*</h3>
 -Os usuários podem pesquisar produtos por categoria;<br>
 -Os usuários podem visualizar detalhes do produto<br>
   - Descrição do produto.<br>
-  -Imagen ilustrativa.<br>
+  - Imagens ilustrativas.<br>
   -Preço.<br>
--Os usuários podem escolher varios produtos e adicioar ao <strong>Carinho</strong><br>
+-Os usuários podem escolher varios produtos e adicionar ao <strong>Carinho</strong><br>
 - Formulario de validação de dados<br>
 - Pagamento<br><br>
 <h3>Tecnologias*</h3>
@@ -42,9 +42,7 @@ npm start (Irá abrir o projeto LocalHost:3000)<br>
 03- Abra o CMD: <br>
 04- cd\sonarqube-10.3.0.82913\bin\windows-x86-64
 05- <h4>Digite o comando: </h4>
-StartSonar.bat (irá abrir Dashbord SonarQube)
-
-
-
-
-
+StartSonar.bat (irá abrir Dashbord SonarQube)<br>
+<br>
+<p>Link de acesso publico ao <strong>TRELLO</strong> deste projeto </p>
+https://trello.com/b/6GRmP4wo/foods-end-drinks-commerce
