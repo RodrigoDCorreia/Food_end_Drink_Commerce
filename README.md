@@ -21,12 +21,26 @@ O projeto "foods and drinks commerce" proporciona aos clientes uma flexibilidade
 02- TypeScript<br>
 04- HTML<br>
 05- CSS
+
+<h3>Planejamento de telas antes do desenvolvimento</h3>
+Pagina inicial<br>
+<div align="center">
+<img src="https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce/assets/66848022/e98ec42e-02e1-4c0f-9d4e-2731f70e9bd8" width="450px" />
+</div><br>
+Carinho de Compras<br>
+<div align="center">
+<img src="https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce/assets/66848022/7c895650-9fb1-4345-8ea6-8aac655b435c" width="450px" />
+</div><br>
 <h3>Processos*</h3>
 <p>Foos end Drinks foi desenvolvidos usando métodos ágeis de desenvolvimento de software que se concentram em pacotes de entrega e enfatizam o desenvolvimento de recursos.</p>
 <p>Teste com <strong>SonarQube</strong> função scanner, print do resultado abaixo:</p>
 <div align="center">
 <img src="https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce/assets/66848022/90d11a89-e0e8-4df2-a145-ec93a4e82364" width="450px" />
-</div>
+</div><br>
+<h3>Driagrama de Uso</h3>
+<div align="center">
+<img src="" width="450px" />
+</div><br>
 
 <h3>instalações*</h3>
 01- Faça um git clone: https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce.git<br>
