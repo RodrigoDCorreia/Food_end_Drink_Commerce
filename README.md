@@ -31,15 +31,15 @@ Carinho de Compras<br>
 <div align="center">
 <img src="https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce/assets/66848022/7c895650-9fb1-4345-8ea6-8aac655b435c" width="450px" />
 </div><br>
+<h3>Driagrama de Uso</h3>
+<div align="center">
+<img src="https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce/assets/66848022/fae1bd71-54f6-4223-aed1-fa40973be6d3" width="350px" />
+</div><br>
 <h3>Processos*</h3>
 <p>Foos end Drinks foi desenvolvidos usando métodos ágeis de desenvolvimento de software que se concentram em pacotes de entrega e enfatizam o desenvolvimento de recursos.</p>
 <p>Teste com <strong>SonarQube</strong> função scanner, print do resultado abaixo:</p>
 <div align="center">
 <img src="https://github.com/RodrigoDCorreia/Food_end_Drink_Commerce/assets/66848022/90d11a89-e0e8-4df2-a145-ec93a4e82364" width="450px" />
-</div><br>
-<h3>Driagrama de Uso</h3>
-<div align="center">
-<img src="" width="450px" />
 </div><br>
 
 <h3>instalações*</h3>
